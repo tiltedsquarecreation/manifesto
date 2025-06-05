@@ -1,0 +1,40 @@
+
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background-color: #0d0f11;
+    color: #e0e0e0;
+    line-height: 1.6;
+    padding: 30px;
+}
+main {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+h1, h2 {
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+.artwork {
+    width: 100%;
+    max-width: 700px;
+    margin: 40px auto;
+    display: block;
+}
+.text {
+    text-align: left;
+    font-size: 1.1em;
+}
+blockquote {
+    margin: 40px 0 10px;
+    padding-left: 20px;
+    border-left: 2px solid #e0e0e0;
+    font-style: italic;
+    color: #bbbbbb;
+}
+.signature {
+    text-align: right;
+    font-style: italic;
+    margin-top: 0;
+}
